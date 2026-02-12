@@ -5,13 +5,13 @@ Agent skill for working with [Aiven for OpenSearch](https://aiven.io/docs/produc
 ## Installation
 
 ```bash
-npx skills add DmitryKey/aiven-opensearch-skills.sh
+npx skills add DmitryKey/aiven-opensearch-skills
 ```
 
 To install only this skill from a repo that has multiple skills:
 
 ```bash
-npx skills add DmitryKey/aiven-opensearch-skills.sh --skill aiven-opensearch
+npx skills add DmitryKey/aiven-opensearch-skills --skill aiven-opensearch
 ```
 
 ## When to use
